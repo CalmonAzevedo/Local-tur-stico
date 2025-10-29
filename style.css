@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-family: "Alice", serif;
+}
+
+#limite {
+    box-sizing: border-box;
+    width: 1120px;
+    margin: auto;
+    border-radius: 24px;
+}
+
+img {
+    width: 1120px;
+    border-radius: 24px;
+}
+
+.gemea {
+    margin-bottom: 40px;
+}
+
+.sangue {
+    padding-top: 64px;
+    margin-bottom: 8px;
+    color: #E1624F;
+}
+
+.descri {
+    margin-top: 24px;
+    text-align: center;
+}
+
+.comn {
+    margin-top: 2px;
+    margin-bottom: 8px;
+}
+
+.ptext {
+    margin-bottom: 64px;
+}
+
+.semn {
+    margin-top: 20px;
+    margin-bottom: 4px;
+}
+
+.stext {
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+ul {
+    margin-bottom: 48px;
+}
+
+li {
+    margin-left: 20px;
+}
+
+footer {
+    margin: auto;
+    text-align: center;
+    margin-bottom: 40px;
+}
